@@ -1,0 +1,2 @@
+[dataccess]
+172.26.252.48 ansible_user=praveen ansible_become_pass='{{ become_pass }}'
